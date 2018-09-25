@@ -1,0 +1,1 @@
+ApplicationName = "Learning a little Python"
