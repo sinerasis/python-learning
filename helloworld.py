@@ -1,2 +1,3 @@
 ListOfStrings = ["Hello", "world!"]
-print(" ".join(ListOfStrings))
+JoinedString = " ".join(ListOfStrings)
+print(JoinedString)
