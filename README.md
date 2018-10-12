@@ -14,4 +14,4 @@ create a user named "learner" with a password of "python"
 
 give read/write privileges to our "learner" user on anything in our "python_learning" database
     
-    GRANT ALL PRIVILEGES ON 'python_learning'.* TO 'learner'@'localhost' WITH GRANT OPTION;
+    GRANT ALL PRIVILEGES ON python_learning.* TO learner@localhost WITH GRANT OPTION;
